@@ -1,6 +1,6 @@
 # Event Analysis Lab
 
-**Course:** DLM‑610 – Event Analysis and Intrusion Response  **Date:** February 17 2025
+**Course:** IS-3523: Intrusion Detection and Response  **Date:** February 17 2025
 
 **Author:** Brandon Nelson
 
