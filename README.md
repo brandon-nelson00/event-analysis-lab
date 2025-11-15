@@ -1,6 +1,6 @@
 # Event Analysis Lab (Network Forensics Investigation)
 
-This repository contains a detailed lab report for **Event Analysis Lab**, undertaken as part of the course *IS-3523 Intrustion Detection and Response*.  The objective was to investigate network events captured in a PCAP from a home network, quantify traffic statistics, map hosts and services, evaluate intrusion‑detection alerts, and identify any anomalies or misconfigurations.
+This repository contains a detailed lab report for **Event Analysis Lab**, undertaken as part of the course *IS-3523: Intrustion Detection and Response*.  The objective was to investigate network events captured in a PCAP from a home network, quantify traffic statistics, map hosts and services, evaluate intrusion‑detection alerts, and identify any anomalies or misconfigurations.
 
 ## Project overview
 
