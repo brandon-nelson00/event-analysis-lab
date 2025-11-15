@@ -1,7 +1,7 @@
 # Event Analysis Lab
 
-**Course:** IS-3523: Intrusion Detection and Response  **Date:** February 17 2025
-
+**Course:** IS-3523: Intrusion Detection and Response  
+**Date:** February 17 2025
 **Author:** Brandon Nelson
 
 ## 1 Introduction
