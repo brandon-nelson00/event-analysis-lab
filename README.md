@@ -32,19 +32,3 @@ event-analysis-lab/
 ├── lab_report.md # Detailed procedural write‑up with embedded figures
 └── README.md     # Overview and quick reference (this file)
 ```
-
-## Usage
-
-1. Clone this repository or download the ZIP.
-2. Open `lab_report.md` to read the detailed network forensics analysis.  The report can be viewed directly on GitHub or rendered locally with any Markdown viewer.
-3. The image files (`img-000.jpg` through `img-008.jpg`) contain screenshots extracted from the original lab PDF and are embedded in the report for context.
-
-## Reproducibility
-
-To reproduce the analysis outlined in this lab, you will need a packet capture from a similar environment.  The tools and commands used include:
-
-* **Wireshark** for packet inspection, statistics and I/O graphs.
-* **NetworkMiner** for passive host identification and session reconstruction.
-* **Snort IDS** for offline intrusion‑detection scanning of the PCAP (`snort –r capture.pcap –c /etc/snort/snort.conf`).
-
-Ensure you conduct this analysis in a lab environment with appropriate authorization.
